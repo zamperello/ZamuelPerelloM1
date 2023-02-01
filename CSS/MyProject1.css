@@ -1,0 +1,46 @@
+body {
+    background-color:black;
+    position: relative; 
+}
+
+ul.design{
+    
+    padding:0;
+    list-style:none;
+    background-color:gold
+    
+    
+}
+
+ul.design li form{
+    
+
+    display:inline;
+
+    
+}
+
+ul.design li a{
+    
+    margin:10px;
+    text-decoration:none;
+    
+    
+}
+input{
+    
+    width:100px;
+    
+}
+.higher{
+    margin:20px;
+    background-color:gold;
+    width:390px;
+    height:180px;
+    background-position:50% 50%;
+}
+
+.Wakanda1
+{ position: absolute;
+    width:390px;
+    height:180px;}
